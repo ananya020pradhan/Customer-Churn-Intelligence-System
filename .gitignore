@@ -9,4 +9,4 @@ venv/
 .DS_Store
 
 # IDE
-.vscode/
+.vscode/.DS_Store
